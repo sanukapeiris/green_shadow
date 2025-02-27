@@ -1,5 +1,5 @@
 import {PrismaClient} from "@prisma/client";
-//import Vehicle from "../models/Vehicle";
+import Vehicle from "../models/Vehicle";
 import {Equipment} from "../models/Equipment";
 import {Log} from "../models/Log";
 import {Staff} from "../models/Staff";
