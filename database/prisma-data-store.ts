@@ -3,7 +3,7 @@ import {PrismaClient} from "@prisma/client";
 import {Equipment} from "../models/Equipment";
 //import {Log} from "../models/Log";
 //import {Staff} from "../models/Staff";
-//import {Field} from "../models/Field";
+import {Field} from "../models/Field";
 import {Crop} from "../models/Crop";
 
 const prisma = new PrismaClient();
